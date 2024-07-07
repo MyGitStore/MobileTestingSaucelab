@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Saucelab Execution]" guice-stage="DEVELOPMENT">
+  <test name="sauce Test(failed)">
+    <classes>
+      <class name="appiumMobileTesting.appiumTest1">
+        <methods>
+          <include name="setup"/>
+          <include name="execute"/>
+        </methods>
+      </class> <!-- appiumMobileTesting.appiumTest1 -->
+    </classes>
+  </test> <!-- sauce Test(failed) -->
+</suite> <!-- Failed suite [Saucelab Execution] -->

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Saucelab Execution">
+	<test name="sauce Test">
+	
+		<classes>
+			<class name="appiumMobileTesting.appiumTest1"/>
+			
+			
+		</classes>
+		
+	</test>
+	
+</suite>
